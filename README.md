@@ -23,5 +23,12 @@ https://www.figma.com/design/51yhWNFjSSO9tx5AlD2gTv/Teste-Frontend?node-id=0-1&t
 3. Caso o login seja bem-sucedido, redirecione o usuário para uma nova página vazia(precisa ter nada, só uma pagina em branco msm).  
 4. Faça o mais fiel possível ao protótipo.  
 
+## Entrega  
 
-Boa sorte! 🚀  
+Após finalizar o desenvolvimento, envie o código de uma das seguintes formas:  
+
+- Subindo o projeto no **GitHub** e compartilhando o link.  
+- Se preferir criando um **Pull Request** no repositório oficial do teste.  
+
+
+
