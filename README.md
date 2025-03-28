@@ -18,7 +18,7 @@ https://www.figma.com/design/51yhWNFjSSO9tx5AlD2gTv/Teste-Frontend?node-id=0-1&t
 
 ## Instruções  
 
-1. Desenvolva a interface de login utilizando ReactJs (ou qualquer outro framework javascript de sua escolha).  
+1. Desenvolva a interface de login utilizando ReactJs usando Chakra UI.  
 2. Valide as credenciais inseridas antes de permitir o acesso(lembre: admin@admin e admin ;) ).  
 3. Caso o login seja bem-sucedido, redirecione o usuário para uma nova página vazia(precisa ter nada, só uma pagina em branco msm).  
 4. Faça o mais fiel possível ao protótipo.  
